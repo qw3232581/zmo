@@ -25,7 +25,6 @@ import * as serviceWorker from './serviceWorker';
                                 <option value="sh">上海</option>
                                 <option value="wx">无锡</option>
                                 <option value="nj">南京</option>
-                                <option value="sz">苏州</option>
                                 <option value="km">昆明</option>
                                 <option value="dali">大理</option>
                             </select>
