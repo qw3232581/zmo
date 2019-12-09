@@ -7,6 +7,7 @@ class App extends React.Component {
         console.log("constructor");
         super(props);
         this.state = {x: '', y: '', city: props.city, isLoading: true, baseUrl: 'http://2804h585v0.zicp.vip:32280'};
+        // this.state = {x: '', y: '', city: props.city, isLoading: true, baseUrl: 'http://127.0.0.1:9090'};
         // this.state = {x: '', y: '',timer: null,city: props.city,isLoading: true};
     }
 
